@@ -30,13 +30,6 @@ const GlobalStyle = createGlobalStyle`
   }
 `;
 
-const Main = styled('main')`
-  margin: 20px auto;
-  box-shadow: 1px 1px 20px rgb(0 0 0 / 10%);
-  max-width: 990px;
-`
-
 export {
   GlobalStyle,
-  Main
 }
