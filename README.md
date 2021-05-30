@@ -36,9 +36,9 @@ Inside /api/config rename **default.json.example** to default.json in order to r
 The data for both strings are on confluence (private).
 
 ## ❤️ Contribuitors 
-| gavira | priscilla | Odorcik | Daniel | Walison | Rafael
-| --- | --- | --- | --- | --- | --- |
-| [@biagavirete](https://github.com/biagavirete)| [@priscillasantana](https://github.com/priscillasantana)| [@beatrizodorcik](https://github.com/beatrizodorcik) | [@danielfranchi](https://github.com/danielfranchi) | [@Wtheodoro](https://github.com/Wtheodoro) | [@Rafael-Yokoyama](https://github.com/Rafael-Yokoyama)
+| gavira | priscilla | Odorcik | Daniel | Walison | Rafael | Ana Carolina
+| --- | --- | --- | --- | --- | --- | --- |
+| [@biagavirete](https://github.com/biagavirete)| [@priscillasantana](https://github.com/priscillasantana)| [@beatrizodorcik](https://github.com/beatrizodorcik) | [@danielfranchi](https://github.com/danielfranchi) | [@Wtheodoro](https://github.com/Wtheodoro) | [@Rafael-Yokoyama](https://github.com/Rafael-Yokoyama) | [@carolribeiro2112](https://github.com/carolribeiro2112)
 
 **Netlify link [OFF]**
 
